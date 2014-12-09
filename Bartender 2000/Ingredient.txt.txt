@@ -1,0 +1,130 @@
+﻿Amaretto
+Anisette
+Beer
+Benedictine
+Black Sambuca
+Blue Curacao
+Bourbon
+Apple Brandy
+Apricot Brandy 
+Blackberry Brandy
+Cherry Brandy
+Champagne
+Coffee
+Cognac
+Creme De Cassis
+Creme De Cacao
+White Creme De Menthe
+Green Creme De Menthe
+Curacao
+Drambuie
+Dubonnet
+Galliano
+Regular Gin
+Citrus Gin
+Lime Gin
+Orange Gin
+Grain Alcohol
+Hot Chocolate
+Ice Cream
+Irish Cream
+Irish Mist
+Irish Whiskey
+Jagermeister
+Black Raspberry Liqueur
+Coffee Liqueur
+Hazelnut Liqueur
+Melon Liqueur   
+Orange Liqueur
+Strawberry Liqueur
+Milk
+Cream
+Amber  Rum
+Banana  Rum 
+Cherry Rum
+Citrus Rum
+Coconut Rum
+Dark  Rum
+Light  Rum
+Mango Rum
+1st Proof Rum
+Orange Rum
+Pineapple Rum
+Raspberry Rum
+Spiced Rum
+Vanilla Rum
+Sambuca
+Scotch
+Butterscotch Schnapps
+Cinnamon Schnapps
+Mentholated Schnapps
+Peach Schnapps
+Peppermint Schnapps
+Root Beer Schnapps
+Southern Comfort
+Tequila
+Triple Sec
+Tuaca
+Vandermint
+Apple Vodka
+Banana Vodka
+Cherry Vodka
+Chocolate Vodka
+Cinnamon Vodka
+Citrus Vodka
+Coconut Vodka
+Coffee Vodka
+Cranberry Vodka
+Currant Vodka
+Grapefruit Vodka
+Lemon Vodka
+Lime Vodka
+Mint Vodka
+Orange Vodka
+Peach Vodka Vodka
+Peppermint Vodka
+Peppered Vodka
+Pineapple Vodka
+Raspberry Vodka
+Strawberry Vodka
+Vanilla Vodka
+Whiskey
+White Wine
+Red Wine
+Yukon Jack
+Cranberry Juice
+Orange Juice
+Pineapple Juice
+Apple Juice
+Grape Juice
+Cherry Soda
+Cola
+Lemon Lime Soda
+Peach Tea
+Root Beer
+Ice Cream
+Lemon Garnish
+Lemon Juice
+Lime Garnish
+Lime Juice
+Orange Garnish
+Sour Mix
+Tabasco
+Honey
+Soda Water
+Grapefruit Juice
+Ovaltine
+Hot Chocolate
+100 Proof Vodka
+Part
+Everything
+Glass
+Sierra Mist
+Peach Tea
+Pepsi
+Mtn. Dew
+Cherry Pepsi
+Dr. Pepper
+Lemonade
+Iced Tea
+Strawberry Kiwi Water

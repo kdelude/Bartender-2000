@@ -1,0 +1,204 @@
+﻿AbbeyRoad
+1
+3
+1 Amaretto
+1 Black Raspberry Liqueur
+1 Coffee Liqueur
+Absconded French Girlfriend
+1
+3
+1 Absinthe
+1 Black Raspberry Liqueur
+12 Sparkling Water
+Aztec Surfboard
+1
+7
+1.5 Tequila
+1.5 Brandy
+1 tsp Blue Curacao
+3 Grapefruit Juice
+2 Mango Juice
+1 Passion-fruit Juice
+1 tsp Orgeat Syrup
+BlueLesbian
+1
+3
+2 RaspberryVodka
+.03125 BlueCuracao
+4
+Alexandra
+1
+4
+1 CoffeeLiqeur
+1 Cream
+1 Rum
+1 CremeDeCacao
+Irish Cactus
+1
+2
+2 IrishCream
+1 Tequila
+Lusty Lisa
+1
+3
+1 Vodka
+2 Peach Schnapps
+2 Blue Curacao
+ Alexander’s Sister
+1
+3
+1 Gin
+1 Green Creme De Menthe
+8 Milk
+Dallas Alice
+1
+3
+.75 Tequila
+.75 OrangeLiquer
+.75 CoffeeLiqeur
+Amigo
+1
+3
+1 Tequila
+.75 Coffee Liqueur
+8 Cream
+Anti-Freeze
+1
+2
+1 Vodka
+1 Melon Liqueur
+B52(rocks)
+1
+3
+1 Coffee Liqeur
+1 Irish Cream
+1 Orange Liqueur
+Baby Ruth
+1
+2
+1 Vodka
+1 Amaretto
+Banana Martini
+1
+2
+3.5 Banana Vodka
+.5 Banana Liqueur
+Bat Bite
+1
+2
+2 Rum
+8 Cranberry Juice
+Beer Buster
+1
+3
+2 Vodka
+0.0625 Tabasco
+Bear Hug
+1
+3
+.5 Coffee Liqueur
+.5 Sambuca
+.5 Orange Liqueur
+Berta
+1
+4
+2 Tequila
+2 Honey
+1 Lime Juice
+11 Soda Water
+California Iced Tea
+1
+8
+.5 Vodka
+.5 Gin
+.5 Rum
+.5 Teuila
+.5 Triple Sec
+2 Grapefruit Juice
+1 Cola
+1 Lemon Garnish
+Candy Ass
+1
+3
+.75 Black Raspberry Liqueur
+.75 CremeDeCacao
+.75 IrishCream
+Catfish
+1
+3
+1.5 Rum
+.5 Triple Sec
+8 Cola
+Cherry Hooker
+1
+2
+2 CherryBrandy
+14 OrangeJuice
+ChocolateThunder
+1
+2
+2 100 Proof Vodka
+10 Ovaltine
+Cocaine
+1
+5
+.75 Vodka
+.75 SouthernComfort
+.75 Black Raspberry Liqueur
+.5 OrangeJuice
+.5 CranberryJuice
+Peppermint Kiss
+1
+2
+2 Peppermint Schnapps
+10 HotChocolate
+Depth Bomb
+1
+4
+1.5 Apple Brandy
+1.5 Brandy
+.041667 Grenadine
+.041667 Sour Mix
+Dragoon
+1
+3
+.5 Coffee Liqueur
+.5 Irish Cream
+.5 Black Sambuca
+Graveyard
+0
+1
+1 Part Everything
+Champeaux Splash
+0
+3
+4 Sierra Mist
+4 Peach Tea
+0.021 Grape Juice
+Swamp Monster
+0
+2
+4 Pepsi
+4 Mtn. Dew
+Cherry Cooler
+0
+2
+4 Cherry Pepsi
+4 Dr. Pepper
+Fruit Bowl
+0
+9
+1 Lemonade
+1 Cranberry Juice
+1 Orange Juice
+1 Apple Juice
+1 Grape Juice
+1 Iced Tea
+1 Peach Tea
+1 Cherry Pepsi
+1 Strawberry Kiwi Water
+Lemon Spritz
+0
+2
+4 Sierra Mist
+4 Lemonade
